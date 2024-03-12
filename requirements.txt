@@ -1,0 +1,10 @@
+python-telegram-bot==20.8
+transformers==4.38.2
+feedparser==6.0.11
+beautifulsoup4==4.9.3
+pymongo==3.13.0
+dnspython==2.6.1
+deep_translator==1.11.4
+langdetect==1.0.9
+google-cloud-secret-manager==2.18.3
+tensorflow==2.15.0
